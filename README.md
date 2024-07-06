@@ -33,7 +33,7 @@ func main() {
 	if err != nil {
 		log.Fatal(err)
 	}
-	// print the response
+	// print the response is of type EmbeddingsResponse
 	fmt.Println(res)
 }
 ```
