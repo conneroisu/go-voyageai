@@ -1,6 +1,6 @@
 # go-voyageai
 
-go client for voyage ai
+Unofficial go client for [ voyage ai ](https://www.voyageai.com/).
 
 ## Installation
 
